@@ -39,6 +39,11 @@ Hydrogeologist specialized in enviromental data analytics, GIS, and spatial data
 
 ## Featured Projects
 
+### Climate Change Scenarios for Spain and Caldes de Montbui
+**QGIS | Climate Models | EURO-CORDEX | Environmental Analysis**
+
+Assessment of future climate change impacts using regional climate models, spatial analysis and environmental data processing. The project evaluates projected changes in precipitation, temperature and evapotranspiration under RCP 4.5 and RCP 8.5 scenarios.
+
 ### Barcelona Traffic Accidents Analysis
 **Power BI | QGIS |PowerQuery**
 
