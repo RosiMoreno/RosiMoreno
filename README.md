@@ -1,48 +1,56 @@
-# Hola, soy Rosa Moreno
+# Hi, I'm Rosa Moreno
 Hydrogeology | Environmental Data Analyst | GIS | Python | Power BI |
+- 🔭 I’m currently working : ICGC
+- 🌱 I’m currently learning : 🛰️ Remote Sensing and Earth Observation
+  
+Hydrogeologist specialized in enviromental data analytics, GIS, and spatial data visualization using QGIS, Power BI and Python.
 
-Hidrogeóloga especializada en análisis de datos, SIG y automatización de procesos mediante Python, Power BI y QGIS.
+## Core competencies
 
-## Áreas de interés
+🌊 Hydrogeology / Hydrology
+-
 
-- 📊 Análisis de datos ambientales
-- 🌍 Sistemas de Información Geográfica (GIS)
-- Hidrogeología
-- 🐍 Python para análisis ambiental
-- 🌧️ Cambio climático, precipitación y recursos hídricos
-- 📈 Power BI y visualización de datos
-
-## Tecnologías
-
-- 🐍 Python
-- Pandas
-- NumPy
-- Power BI
+🌍 Geospatial Analysis
+-
 - QGIS
+- Spatial Data Analysis
+- Cartography and Thematic Mapping
+
+🌦️ Environmental Data Analysis
+-
+- Climate and Meteorological Data
+- Hydrological Indicators
+- Time Series Analysis
+
+📊 Data Analysis & Visualization
+-
+- Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
+- Power BI
+- Statistical Analysis
 - SQL
-- Git
-- Jupyter Notebook
+  
+📈 Business Intelligence
+-
+- Power BI Dashboard Design
+- KPI Development
+- Data Storytelling
 
-## Proyectos destacados
 
-### Análisis espacial de accidentes en Barcelona
 
-Integración y limpieza de más de 78.000 registros georreferenciados (2016-2023), análisis espacial mediante QGIS y desarrollo de dashboards interactivos en Power BI.
+## Featured Projects
+
+### Barcelona Traffic Accidents Analysis
+**Power BI | QGIS |PowerQuery**
+
+Integration and cleaning of more than 78.000 georeferenced records (2016-2023), spatial analysis using QGIS, and development of interactive dashboards in Power BI.
+
+### Climate trends in Barcelona
+**Python | Pandas | Numpy | Scipy | Matplotlib | Seaborn |Power BI** 
+Analysis of precipitation and temperature trends in Barcelona through data analytics, time-series integration, and interactive visualization. The project explores climate trends, seasonal variability, and potential relationships between precipitation and temperature using Python and Power BI.
+
 
 ### Geothermometers
+**Python | Jupyter Notebook**
 
-Herramienta desarrollada en Python para el cálculo automatizado de temperaturas de reservorio mediante geotermómetros de sílice y cationes.
+Python-based tool for automated reservoir temperature estimation using silica and cation geothermometers. Developed to support hydrogeochemical interpretation and geothermal resource assessment. 
 
-### Próximamente
-34
-- LiDAR con QGIS
-35
-- Teledetección aplicada al análisis ambiental
-36
-- Modelos digitales del terreno
-
-
-- 🔭 I’m currently working on: ICGC
-- 🌱 I’m currently learning : 🛰️ Teledetección y observación de la Tierra
-
--->
