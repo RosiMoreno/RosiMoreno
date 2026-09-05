@@ -10,6 +10,9 @@ My work focuses on hydrogeology, climate change assessment, geospatial analysis,
 
 🌊 Hydrogeology / Hydrology
 -
+- 💧 Hydrogeothermal systems resilience under climate change scenarios
+- 🌍 Groundwater systems characterization and hydrogeological conceptual modelling
+- 🧪 Hydrochemical datasets interpretation and thermal water monitoring.
 
 🌍 Geospatial Analysis
 -
@@ -25,18 +28,9 @@ My work focuses on hydrogeology, climate change assessment, geospatial analysis,
 
 📊 Data Analysis & Visualization
 -
+- Power BI Dashboard Design & KPI Development
 - Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
-- Power BI
 - Statistical Analysis
-- SQL
-  
-📈 Business Intelligence
--
-- Power BI Dashboard Design
-- KPI Development
-- Data Storytelling
-
-
 
 ## Featured Projects
 
