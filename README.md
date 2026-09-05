@@ -1,4 +1,4 @@
-# Hi, I'm Rosa Moreno
+# Hi, I'm Rosi Moreno
 ## Hydrogeology | GIS & Environmental Data Analyst  
 🌍 QGIS | 📊 Power BI | 🐍 Python | 🐼 Pandas | 🔢 Numpy | 🗄️ SQL | 🛰️ Remote Sensing | 📍 GeoPandas
 
