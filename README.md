@@ -34,10 +34,14 @@ My work focuses on hydrogeology, climate change assessment, geospatial analysis,
 
 ## Featured Projects
 
-### ♨️ ThermEcoWat Environmental Dashboard
-**Power BI | Hydrogeology | Climate Data | Environmental Analytics**
+### ♨️ ThermEcoWat Geothermal Resources Assessment
+**Power BI | DAX | Hydrogeology | Environmental Analytics**
 
+***Geothermal Resources Characterization:***
 Interactive dashboard developed for the ThermEcoWat European Project to support the characterization of thermal water resources and the assessment of climate change impacts on hydrothermal systems.
+
+***Geoenergy Potential:***
+Interactive Power BI dashboard developed within the ThermEcoWat European Project to characterize thermal water resources, assess geothermal potential, and identify opportunities for thermal energy recovery.
 
 ### 🌍 Climate Change Scenarios for Spain and Caldes de Montbui
 **QGIS | Climate Models | EURO-CORDEX | Environmental Analysis**
